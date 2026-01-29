@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.94c3d3b5.css",
+    "main.js": "/portfolio/static/js/main.d8538dcf.js",
+    "static/js/87.af2737ba.chunk.js": "/portfolio/static/js/87.af2737ba.chunk.js",
+    "static/media/moffat_bay.png": "/portfolio/static/media/moffat_bay.929ca6586656a7ca8036.png",
+    "static/media/minecraft_randomizer.png": "/portfolio/static/media/minecraft_randomizer.ef07c96c0f12757a26e5.png",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/nfs_navigator.png": "/portfolio/static/media/nfs_navigator.1ea11b5244d72d1f7507.png",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/cropped_circle_image.png": "/portfolio/static/media/cropped_circle_image.8b054bacc7b425ef653e.png",
+    "static/media/crime_analysis.png": "/portfolio/static/media/crime_analysis.b9197f817703840e65e5.png",
+    "index.html": "/portfolio/index.html",
+    "main.94c3d3b5.css.map": "/portfolio/static/css/main.94c3d3b5.css.map",
+    "main.d8538dcf.js.map": "/portfolio/static/js/main.d8538dcf.js.map",
+    "87.af2737ba.chunk.js.map": "/portfolio/static/js/87.af2737ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c3d3b5.css",
+    "static/js/main.d8538dcf.js"
+  ]
+}
